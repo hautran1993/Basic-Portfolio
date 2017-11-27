@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .en-us {
     width: 960px;
     height: 100%;
@@ -17,32 +18,103 @@
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     padding: 45px;
+=======
+.en-us{
+    width: 960px;
+    height: 100%;
+}
+.top-bar{
+    background-color: white;
+    margin-bottom: 60px;
+}
+
+.name-box1{
+    background-color: navy;
+    color: white;
+    margin-left: 152px;
+    position: absolute;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 32px;
+    left: 62px;
+>>>>>>> f18079c04ab67afdee1a0cbd8ac487748f253f86
     width: 120px;
     font-size: 25px;
     padding-bottom: 50px;
     text-align: center;
+<<<<<<< HEAD
 }
 
 .nav-bar {
     float:right;
+=======
+    top:1px;}
+
+.name-box2{
+    background-color: navy;
+    color: white;
+    margin-left: 152px;
+    position: absolute;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 32px;
+    left: 62px;
+    width: 120px;
+    font-size: 25px;
+    padding-bottom: 50px;
+    text-align: center;
+    top:1px;
+}
+.name-box{    
+    background-color: navy;
+    color: white;
+    margin-left: 152px;
+    position: absolute;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 32px;
+    top: 0px;
+    left: 62px;
+    width: 120px;
+    font-size: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.nav-bar{
+    margin-left: 65%;
+>>>>>>> f18079c04ab67afdee1a0cbd8ac487748f253f86
     padding: 3%;
     word-spacing: 10px;
     font-size: 20px;
 }
 
+<<<<<<< HEAD
 #bio-image {
     margin-right: 20px;
+=======
+#bio-image{
+`margin-right: 20px;
+>>>>>>> f18079c04ab67afdee1a0cbd8ac487748f253f86
     margin-left: 5px;
     float: left;
     padding-bottom: 1px;
     padding-right: 10px;
 }
 
+<<<<<<< HEAD
 .files img {
     margin-bottom: 50px;
 }
 
 .bio {
+=======
+.files img{
+    margin-bottom: 50px;
+}
+
+.bio{
+>>>>>>> f18079c04ab67afdee1a0cbd8ac487748f253f86
     width: 570px;
     background-color: #FFF;
     padding: 25px;
@@ -52,6 +124,7 @@
     word-spacing: 10px
 }
 
+<<<<<<< HEAD
 .bio-image{
     width: 200px;
     height: 200px;
@@ -61,6 +134,9 @@
 }
 
 .body-paragraph {
+=======
+.body-paragraph{
+>>>>>>> f18079c04ab67afdee1a0cbd8ac487748f253f86
     width: 960px;
     margin: 0 auto;
     flex: 1 auto;
@@ -71,6 +147,7 @@ h2 {
     font-size: 22px;
     color: navy;
 }
+<<<<<<< HEAD
 
 .files {
     display: flex;
@@ -82,6 +159,14 @@ h2 {
     margin-bottom: 50px;
     height: 250px; 
     width: 250px;
+=======
+.files{
+    display: table-cell;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 40px;
+>>>>>>> f18079c04ab67afdee1a0cbd8ac487748f253f86
 }
 
 .body-margin {
@@ -91,27 +176,44 @@ h2 {
     background-color: grey;
 }
 
+<<<<<<< HEAD
 .portfolio {
+=======
+.portfolio{
+>>>>>>> f18079c04ab67afdee1a0cbd8ac487748f253f86
     float: left;
     position: relative;
     width: 40%;
     margin-right: 8%;
 }
 
+<<<<<<< HEAD
 .button {
     width: 100px;
 }
 
 .input {
+=======
+.button{
+    width: 100px;
+}
+
+.input{
+>>>>>>> f18079c04ab67afdee1a0cbd8ac487748f253f86
     width: 98%;
     height: 30px;
 }
 
+<<<<<<< HEAD
 .input2 {
+=======
+.input2{
+>>>>>>> f18079c04ab67afdee1a0cbd8ac487748f253f86
     width: 98%;
     height: 200px;
 }
 
+<<<<<<< HEAD
 .logo { 
     color: white;
     font-size: 21px;
@@ -126,6 +228,21 @@ h2 {
 }
 
 .line {
+=======
+.logo{ color: navy
+    font-size: 18px;
+}
+
+.body-float{
+    position: relative;
+}
+
+.bar-items{
+    color: #d21034;
+}
+
+.line{
+>>>>>>> f18079c04ab67afdee1a0cbd8ac487748f253f86
     padding-bottom: 0px;
     overflow: hidden;
     border-width: 2px;
@@ -133,7 +250,11 @@ h2 {
     font-color:navy;
 }
 
+<<<<<<< HEAD
 .line1 {
+=======
+.line1{
+>>>>>>> f18079c04ab67afdee1a0cbd8ac487748f253f86
     padding-bottom: 0px;
     overflow: hidden;
     border-width: 2px;
@@ -141,10 +262,17 @@ h2 {
     width: 227px
 }   
 
+<<<<<<< HEAD
 .connecting1 {
     position: absolute;
     left: 70%;
     top: 180px;
+=======
+.connecting1{
+    position: absolute;
+    left: 66%;
+    top: 167px;
+>>>>>>> f18079c04ab67afdee1a0cbd8ac487748f253f86
     text-align: center;
     width: 260px;
     height: 162px;
@@ -152,20 +280,36 @@ h2 {
 }
 
 li {
+<<<<<<< HEAD
     padding: 17px;
 }
 
+=======
+    float: left;
+    padding: 17px;
+}
+>>>>>>> f18079c04ab67afdee1a0cbd8ac487748f253f86
 h3 {    
     padding-bottom: 5%;
     padding-top: 5%;
     font-size: 25px;
 }
 
+<<<<<<< HEAD
 .copy-center {
     text-align: center;
 }
 
 .foot {
+=======
+.logo-name{}
+
+.copy-center{
+	text-align: center;
+}
+
+.foot{
+>>>>>>> f18079c04ab67afdee1a0cbd8ac487748f253f86
     text-align: center;
     background-color: white;
     font-family: "arial";
@@ -180,6 +324,7 @@ h3 {
 a {
     padding-right: 10px;
     padding-left:10px ;
+<<<<<<< HEAD
     color: navy;
 }
 
@@ -313,6 +458,12 @@ a {
         margin-top: 50%;
     }
 }
+=======
+}
+
+
+
+>>>>>>> f18079c04ab67afdee1a0cbd8ac487748f253f86
 
 
 
